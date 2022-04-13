@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Olá, me chamo Wollace e sou um desenvolvedor com interesses em linguagens WEB e DESKTOP.
+
+Atualmente tenho conhecimento em <strong>HTML, CSS, JAVA, JAVASCRIPT e MYSQL</strong>, tendo como principal linguagem de programação o <strong>JAVA</strong> com mais de 3 anos em desenvolvimento voltado a servidores de Minecraft e criação de jogos 2D single-player.
+
 <!--
 **Wollace-Buarque/Wollace-Buarque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
