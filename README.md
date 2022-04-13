@@ -1,4 +1,4 @@
-### <strong style="text-align: center;">Hi there 👋</strong>
+### Hi there 👋
 
 Olá, me chamo Wollace e sou um desenvolvedor com interesses em linguagens <strong>WEB</strong> e <strong>DESKTOP</strong>.
 
