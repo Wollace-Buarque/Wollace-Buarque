@@ -1,8 +1,5 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=wollace-buarque&show_icons=true&locale=pt-BR" alt="wollace-buarque" />  
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wollace-buarque&show_icons=true&locale=pt-BR&layout=compact" alt="wollace-buarque" />
 </p>
 
