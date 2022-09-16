@@ -7,4 +7,4 @@
 
 Olá, me chamo Wollace e sou um desenvolvedor com interesses em linguagens <strong>WEB</strong> e <strong>DESKTOP</strong>.
 
-Foco em <strong>BACK-END</strong>, mas atualmente tenho conhecimento em <strong>HTML, CSS, REACT, BOOTSTRAP, JAVA, JAVASCRIPT e MYSQL</strong>, tendo como principal linguagem de programação o <strong>JAVA</strong> com mais de 3 anos em desenvolvimento de plugins voltado a servidores de Minecraft. Também tenho uma curta experiência em criação de jogos 2D.
+Foco em <strong>BACK-END</strong>, mas atualmente tenho conhecimento em <strong>HTML, CSS, REACT, TAILWIND, BOOTSTRAP, JAVA, JAVASCRIPT e MYSQL</strong>, tendo como principal linguagem de programação o <strong>JAVA</strong> com mais de 3 anos em desenvolvimento de plugins voltado a servidores de Minecraft. Também tenho uma curta experiência em criação de jogos 2D.
