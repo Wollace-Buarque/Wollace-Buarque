@@ -5,6 +5,6 @@
 
 ## Sobre mim
 
-Olá, me chamo Wollace e sou um desenvolvedor com interesses em linguagens <strong>WEB</strong> e <strong>DESKTOP</strong>.
+Olá, me chamo Wollace e sou um desenvolvedor com conhecimento em linguagens/frameworks <strong>FRONT-END</strong> e <strong>BACK-END</strong>.
 
-Foco em <strong>BACK-END</strong> e atualmente tenho conhecimento em <strong>HTML, CSS, REACT, JAVA, JAVASCRIPT e MYSQL</strong>.
+Foco em <strong>BACK-END</strong> e atualmente tenho conhecimento em <strong>HTML, CSS, REACT, JAVA, JAVASCRIPT/TYPESCRIPT, MYSQL e Node</strong>.
