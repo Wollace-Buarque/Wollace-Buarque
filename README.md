@@ -7,6 +7,5 @@
 
 Olá, me chamo Wollace e sou um desenvolvedor com conhecimento em <strong>FRONT-END</strong> e <strong>BACK-END</strong>.
 
-Atualmente tenho conhecimento em <strong>HTML, CSS, Java, JavaScript, MySQL, SQLite e PostgreSQL</strong>.
-
-Algumas tecnologias que mais utilizo: <strong>TypeScript, React, React Native (Expo), Next.js, Node.js, Express, Fastify, Prisma, Zod e TailwindCSS</strong>.
+## Conhecimentos
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,docker,mysql,sqlite,postgres,next,react,nodejs,prisma,git,tailwind)](https://skillicons.dev)
